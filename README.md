@@ -12,10 +12,9 @@ Now, some things about me...
 
 🌱  Some languages i'm trying to learn are C++ and Java  🌱
 
-🎆  I'm also trying to build Neural Networks  🎆
+🎆  I'm also trying to learn and build Neural Networks 🎆
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
